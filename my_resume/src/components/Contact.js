@@ -31,7 +31,7 @@ function Contact() {
      
       <Card.Header>
        
-        <Card.Body>
+        <Card.Body style={{backgroundImage: 'url(https://media.istockphoto.com/vectors/blue-simple-abstract-background-vector-id1185144701?k=6&m=1185144701&s=612x612&w=0&h=_yqRfwab7JM3GoAopqw8-J_H9vujYVs6keiOaxQWs-k=)', backgroundSize:'700px 400px'}} >
         <Form
           name="contact"
           onSubmit={handleSubmit}>

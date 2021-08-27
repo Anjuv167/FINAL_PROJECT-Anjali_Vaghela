@@ -9,10 +9,11 @@ function Introduction ()  {
       <h2>Little introduction of Myself:-</h2>
       <Card.Header >
         <Card.Body>
+        <img src="https://media.kaufland-online.de/images/items/original/967f4c36846c1f7eb16e347008b1bd76.jpg" alt="Pineapple" style={{float:"right",padding:"10px",width:"200px"}}/>
           <Card.Title>
-            HELLO , I'm  Anjali Vaghela.
+            Anjali Vaghela
             </Card.Title>
-              <Card.Subtitle><i>I am an International Student origin from India </i></Card.Subtitle>
+              <Card.Subtitle><i>an International Student origin from India </i></Card.Subtitle>
               <br />
               <Card.Subtitle>
                 Sandpiper Drive, Abbotsford <br />
@@ -30,18 +31,9 @@ function Introduction ()  {
             <br />
             <a
               href="#contact">
-              Contact me :-
+              Contact me 
             </a>
             <br></br>
-            <a
-              href="#experiences">
-              My job experiences :-
-            </a>
-            <br></br>
-            <img
-            alt="hero"
-            src="./coding.svg"
-          />
           
         </Card.Body>
       </Card.Header>
