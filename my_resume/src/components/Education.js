@@ -18,7 +18,7 @@ function Education() {
                 <img
                   alt="gallery"
                   src={education.image}
-                  style={{width:"40%"}}  
+                  style={{width:"30%"}}  
                 /> </a>
                   <span className=" flex" style={{margin:"50px",fontSize:"20px"}}>
                     <span>
@@ -31,7 +31,7 @@ function Education() {
                     <h5><b> {education.subtitle}</b></h5>
                   </p>
                   <p>
-                    <i>{education.description}</i>
+                    {education.description}
                   </p>
                   <br></br>
                   <br></br>

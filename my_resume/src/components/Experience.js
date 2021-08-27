@@ -22,8 +22,8 @@ function Experience() {
                     </span>
                     </span>
                     <br></br>
-                    <p> - {workexperience.quote1}</p>
-                    <p> - {workexperience.quote2}</p>
+                    <p> - {workexperience.quote1}  </p>
+                    <p> - {workexperience.quote2} </p>
                     <br></br>
                 </Card.Body>
                 ))}

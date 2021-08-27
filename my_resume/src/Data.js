@@ -12,7 +12,7 @@ export const educations = [
       subtitle: "IELTS preparation for Abroad Studies",
       description:
         "After a brief details, I started to prepare for an IELTS exam because I wanted to come in Canada for my further Education !!!",
-      image: "http://barronsbooks.com/img/graphics/IELTS-title.png",
+      image: "https://pngimage.net/wp-content/uploads/2018/06/ielts-logo-png-9.png",
       link: "https://www.ielts.org/for-test-takers/book-a-test",
     },
     {
@@ -20,7 +20,7 @@ export const educations = [
       subtitle: "Web Application Development Diploma -1 Year",
       description:
         "In CodeCore, as an international student I have learned computer languages like Java, Express Java, Ruby and Rails ,React And UI/UX !!! ",
-      image: "https://www.codecore.ca/images/codecore-logo.png",
+      image: "https://cdn-az.allevents.in/events6/banners/275955562804c0b32af4142f5326d046d017da8ac0e1b047056070cc561be11c-rimg-w1200-h675-gmir.jpg?v=1594901093",
       link: "https://www.codecore.ca/",
     },
     {
