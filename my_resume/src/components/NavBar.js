@@ -6,7 +6,7 @@ import '../Styles/resume.css';
 function NavBar() {
     
       return (
-        <Navbar className="container" style={{}}>
+        <Navbar className="navbar" style={{marginLeft:"140px",position:"sticky"}}>
           <Nav>
             <Nav.Link href="#introduction" style={{margin:"28px"}}>
               Introduction

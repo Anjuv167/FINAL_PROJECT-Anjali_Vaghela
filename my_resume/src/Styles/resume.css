@@ -1,6 +1,31 @@
 .container{
+    color: rgb(1, 7, 14);
     color-interpolation-filters: linearRGB;
-    font-family: Snell Roundhand, cursive;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     align-items: stretch;
+    width: 700px;
+    transition:  transform 2s font 2s;
+    background-image: url(https://ak.picdn.net/shutterstock/videos/712807/thumb/1.jpg);
+    background-size: cover;
     
 }
+.container:hover {
+    border-color: #01011dfb;
+    border-radius: 4%;
+    border-width: 4px;
+    width: 800px;
+
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: -1px 0px black, -1px 0px black, 2px 0 black, 3px 0px slategrey;
+  
+}
+
+p {
+    font-size: 20px;
+}
+
+
+

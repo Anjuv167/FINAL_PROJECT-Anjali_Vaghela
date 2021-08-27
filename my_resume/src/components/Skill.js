@@ -8,19 +8,19 @@ function Skill() {
        
       <Card className="container" id="skills">
         <h2>
-            Skills I got :-
+            Skills I got !
         </h2>
         <Card.Header>
-        <Card.Body style={{backgroundImage: 'url(https://media.istockphoto.com/vectors/blue-simple-abstract-background-vector-id1185144701?k=6&m=1185144701&s=612x612&w=0&h=_yqRfwab7JM3GoAopqw8-J_H9vujYVs6keiOaxQWs-k=)', backgroundSize:'700px 400px'}}>
+        <Card.Body>
           {skills.map((skill) => (
 
             <div key={skill}>
               <div>
 
-                <ol>
+                <ol style={{fontSize:"20px"}}>
                 <b> {skill.title}</b>
                 </ol>
-                    <li style={{margin:"10px"}}>
+                    <li style={{margin:"10px",fontSize:"18px"}}>
                            {skill.subtitle}
                     </li>
                   

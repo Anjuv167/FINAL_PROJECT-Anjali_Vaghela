@@ -1,7 +1,7 @@
 export const educations = [
     {
       title: "High School [2016-2018]",
-      subtitle: "12th Class with Science(Non-medical stream)",
+      subtitle: "High School with Science (Non-medical stream)",
       description:
         " I have finished my 11th and 12th standard with Science that includes Maths,Chemistry and Physics Subjects !!!",
       image: "https://www.static-contents.youth4work.com/university/Documents/Colleges/CollegeBanner/718c3d26-bcec-4840-bcd4-f37de20fe83f.PNG",
@@ -9,7 +9,7 @@ export const educations = [
     },
     {
       title: "IELTS [2018-2019]",
-      subtitle: "IELTS preparation",
+      subtitle: "IELTS preparation for Abroad Studies",
       description:
         "After a brief details, I started to prepare for an IELTS exam because I wanted to come in Canada for my further Education !!!",
       image: "http://barronsbooks.com/img/graphics/IELTS-title.png",
@@ -19,12 +19,12 @@ export const educations = [
       title: "Diploma [2020-2021]",
       subtitle: "Web Application Development Diploma -1 Year",
       description:
-        "In Canada,as an international student I have learned computer languages like Java, Express Java, Ruby and Rails ,React And UI/UX !!! ",
+        "In CodeCore, as an international student I have learned computer languages like Java, Express Java, Ruby and Rails ,React And UI/UX !!! ",
       image: "https://www.codecore.ca/images/codecore-logo.png",
       link: "https://www.codecore.ca/",
     },
     {
-      title: "Advanced Diploma [2021-2023]",
+      title: " Diploma [2021-2023]",
       subtitle: "Communication Design - 2 Year",
       description:
         "Eventually, here in this college I am going to study Design program with websites using my previous studies in web development !!!",
